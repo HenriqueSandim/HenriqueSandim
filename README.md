@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1> Opa, prazer! <h1><br><p> Meu nome é Henrique e eu sou um estudante de programação atualmente certificado em FullStack </p><br><p> Estudei na <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil</a> e já fiz diversos projetos, mas os principais estão disponíveis publicamente aqui no meu perfil!</p><br>
+<h1> Opa, prazer! <h1><br><p> Meu nome é Henrique e eu sou um estudante de programação atualmente certificado como FullStack. </p><br><p> Estudei na <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil</a> e já fiz diversos projetos, mas os principais estão disponíveis publicamente aqui no meu perfil!</p><br>
 
 
 ## 🌐 Socials:
